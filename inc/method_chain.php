@@ -14,8 +14,8 @@ class method_chain{
     public function md(){
         
         echo $this->a ." ". $this->b;
-         return $this;
         
+          return $this;
     }
     
 }

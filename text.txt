@@ -1,0 +1,1 @@
+O:6:"class2":4:{s:1:"a";s:6:"I am a";s:1:"b";s:6:"I am b";s:1:"c";s:6:"I am c";s:1:"d";s:6:"I am d";}
